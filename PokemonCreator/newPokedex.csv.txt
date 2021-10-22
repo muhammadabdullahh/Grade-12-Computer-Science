@@ -1,0 +1,1 @@
+name	index	primary type	secondary type	hp	att	def	special att	special def	speed	total
